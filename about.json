@@ -1,0 +1,45 @@
+[
+    {
+        "Name":"Andrés Vélez",
+        "Age":"30",
+        "Email":"randombluemail@gmail.com",
+        "Phone":"301397XXXX",
+        "Address":"CL X #X-X",
+        "City":"Medellín",
+        "Headline":"What?",
+        "Links": [
+            {
+                "Name": "LinkedIn",
+                "URL" : "x" 
+            },
+            {
+                "Name": "GitHub",
+                "URL" : "x" 
+            },
+            {
+                "Name": "Twitter",
+                "URL" : "x"
+            }
+        ],
+        "Website" : "Nop",
+        "Skills" : [
+            {
+                "Name" : "JavaScript",
+                "Level" : "Noob"
+            },
+            {
+                "Name" : "React",
+                "Level" : "UltraNoob"
+            },
+            {
+                "Name" : "Node",
+                "Level" : ":'("
+            },
+            {
+                "Name" : "HTML",
+                "Level" : "just Ok"
+            }
+        ]
+    }
+
+]
